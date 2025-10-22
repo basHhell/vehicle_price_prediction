@@ -1,0 +1,6 @@
+mlflow
+sklearn
+CatBoosstRegressor
+joblib
+pandas
+Flask,render_template

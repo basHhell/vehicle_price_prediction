@@ -1,6 +1,9 @@
 mlflow
+mlflow.catboost
 sklearn
+sklearn.model_selection
 CatBoosstRegressor
 joblib
 pandas
 Flask,render_template
+gunicorn

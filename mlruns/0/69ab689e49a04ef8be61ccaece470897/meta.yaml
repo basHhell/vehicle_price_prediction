@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/codfa/OneDrive/Desktop/vehicle_price_prediction/vehicle_price_prediction/Vehicle%20Price%20Prediction/mlruns/0/69ab689e49a04ef8be61ccaece470897/artifacts
+end_time: 1760966601412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69ab689e49a04ef8be61ccaece470897
+run_name: valuable-pug-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760966573103
+status: 3
+tags: []
+user_id: codfa

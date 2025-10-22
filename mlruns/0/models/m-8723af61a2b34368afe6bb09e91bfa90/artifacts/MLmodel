@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/codfa/OneDrive/Desktop/vehicle_price_prediction/vehicle_price_prediction/Vehicle%20Price%20Prediction/mlruns/0/models/m-8723af61a2b34368afe6bb09e91bfa90/artifacts
+flavors:
+  catboost:
+    catboost_version: 1.2.8
+    code: null
+    data: model.cb
+    model_type: CatBoostRegressor
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.10.13
+mlflow_version: 3.4.0
+model_id: m-8723af61a2b34368afe6bb09e91bfa90
+model_size_bytes: 920340
+model_uuid: m-8723af61a2b34368afe6bb09e91bfa90
+prompts: null
+run_id: c95f126a8e85414ea6485357b0e01810
+utc_time_created: '2025-10-20 14:06:27.850875'

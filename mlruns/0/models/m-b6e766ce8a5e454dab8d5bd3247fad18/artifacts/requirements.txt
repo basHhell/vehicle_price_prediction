@@ -1,0 +1,7 @@
+mlflow==3.4.0
+catboost==1.2.8
+ipython==8.35.0
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.3
+typing==3.7.4.3

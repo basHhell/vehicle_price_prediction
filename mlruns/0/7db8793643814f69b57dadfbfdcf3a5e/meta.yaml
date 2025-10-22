@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/codfa/OneDrive/Desktop/vehicle_price_prediction/vehicle_price_prediction/Vehicle%20Price%20Prediction/mlruns/0/7db8793643814f69b57dadfbfdcf3a5e/artifacts
+end_time: 1761064633170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7db8793643814f69b57dadfbfdcf3a5e
+run_name: brawny-sponge-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761064633096
+status: 4
+tags: []
+user_id: codfa

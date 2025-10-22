@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/codfa/OneDrive/Desktop/vehicle_price_prediction/vehicle_price_prediction/Vehicle%20Price%20Prediction/mlruns/0/models/m-bfb538b33d2944a59f80526d52151b73/artifacts
+creation_timestamp: 1760969199618
+experiment_id: '0'
+last_updated_timestamp: 1760969204586
+model_id: m-bfb538b33d2944a59f80526d52151b73
+model_type: null
+name: catboost_model_2
+source_run_id: 959399691be14c849326f523c7783efd
+status: 2
+status_message: null

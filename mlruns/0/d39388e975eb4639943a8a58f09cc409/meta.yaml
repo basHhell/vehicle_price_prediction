@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/codfa/OneDrive/Desktop/vehicle_price_prediction/vehicle_price_prediction/Vehicle%20Price%20Prediction/mlruns/0/d39388e975eb4639943a8a58f09cc409/artifacts
+end_time: 1760974008389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d39388e975eb4639943a8a58f09cc409
+run_name: glamorous-moose-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760973989952
+status: 3
+tags: []
+user_id: codfa
